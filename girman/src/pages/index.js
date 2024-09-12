@@ -30,7 +30,7 @@ export default function Home() {
           <div className="flex items-center space-x-3">
             {/* Logo */}
             <div>
-              <Image src="/logo.png" width={180} height={60} alt="Logo" />
+              <Image src="/Logo.png" width={180} height={60} alt="Logo" />
             </div>
           </div>
           {/* Navigation Links */}

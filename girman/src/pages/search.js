@@ -74,7 +74,7 @@ export default function Search({ data }) {
         <div className="container mx-auto flex justify-evenly items-center py-4 px-8">
           {/* Logo */}
           <div className="flex items-center">
-            <Image src="/logo.png" width={180} height={60} alt="Logo" />
+            <Image src="/Logo.png" width={180} height={60} alt="Logo" />
           </div>
 
           {/* Search Box */}
